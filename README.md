@@ -4,6 +4,8 @@
 
 ## Welcome to / Bienvenido a GayolGate 💻
 
+[Visit my Google Play page](https://play.google.com/store/apps/dev?id=6796294311676318741)
+
 <hr>
 🇺🇸 A Spanish video game studio focused on diverse projects. Our games are free and don't have ads: we don't earn money coding. Currently we're contributing to VueTube, an open source video streaming app to watch YouTube with more privacy and with plugins. <br />
 <br />
