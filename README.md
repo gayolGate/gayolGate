@@ -25,3 +25,9 @@ Discord:<br />
 **alexuspromago#9473**<br />
 
 <hr>
+
+## ⭐️ My favorite projects / Mis proyectos favoritos
+
+  ### YouTube clients
+  
+  [![NewPipe](https://github-readme-stats.vercel.app/api/pin/?username=TeamNewpipe&repo=Newpipe)](https://github.com/TeamNewPipe/NewPipe/)
