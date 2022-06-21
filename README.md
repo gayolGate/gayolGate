@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="600" src="/logo.PNG" alt="GayolGate logo">
+</p>
+
 ## Welcome to / Bienvenido a GayolGate 💻
 
 <hr>
