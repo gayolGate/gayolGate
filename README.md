@@ -35,3 +35,4 @@ Discord:<br />
   ### YouTube clients
   
   [![NewPipe](https://github-readme-stats.vercel.app/api/pin/?username=TeamNewpipe&repo=Newpipe)](https://github.com/TeamNewPipe/NewPipe/)
+  [![VueTube](https://github-readme-stats.vercel.app/api/pin/?username=VueTubeApp&repo=VueTube)](https://github.com/VueTubeApp/VueTube/)
