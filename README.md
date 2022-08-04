@@ -7,9 +7,10 @@
 [Visit my Google Play page](https://play.google.com/store/apps/dev?id=6796294311676318741)
 
 <hr>
-🇺🇸 A Spanish video game studio focused on diverse projects. Our games are free and don't have ads: we don't earn money coding. Currently we're contributing to VueTube, an open source video streaming app to watch YouTube with more privacy and with plugins. <br />
-<br />
-🇪🇸 Un estudio de videojuegos español trabajando en diversos proyectos. Nuestros juegos son gratuitos y no contienen anuncios: no ganamos dinero programando. Actualmente estamos contribuyendo a VueTube, una app de streaming de vídeo de código abierto para ver YouTube con más privacidad y con complementos.
+
+**English:** This is a Spanish videogame and app studio focused on diverse projects. Our apps are free and don't have ads: we don't earn money coding. Currently we're contributing to VueTube, an open source video streaming app to watch YouTube with more privacy and with plugins, and another things like forks and our appstore.
+
+**Español:** Este es un estudio de videojuegos y aplicaciones español trabajando en diversos proyectos. Nuestras apps son gratuitas y no contienen anuncios: no ganamos dinero programando. Actualmente estamos contribuyendo a VueTube, una app de streaming de vídeo de código abierto para ver YouTube con más privacidad y con complementos, y otras cosas como forks y nuestra tienda de aplicaciones.
 <hr>
 
 <image align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GayolGate&count_private=true&show_icons=true&theme=swift&custom_title=Stats / Estadísticas&border_radius=20&include_all_commits=true">
