@@ -17,7 +17,7 @@
 
 ### About me / Sobre mí
 
-**English:** I'm mainly a book writer, author of *Subhallo* and *The Author Valley* (I'm working to translate them to English) but I have recently started into coding world. Coding is too hard but everyday I learn more about game engines like Unity and languages like Java. I especially like the open source repositories that provide comfortable and complete alternatives to Big Tech, which apps are saturated of ads and trackers. <br />
+**English:** I'm mainly a book writer, author of *Subhallo* and *The Author Valley* (I'm working to translate them to English) but I have recently started into coding world. Coding is too hard but everyday I learn more about game engines like Unity and languages like Java. I especially like the open source repositories that provide comfortable and complete alternatives to Big Tech, which apps are full of ads and trackers. <br />
 
 **Español:** Soy principalmente un escritor de libros, autor de *Subhallo* y *Valle del autor*, pero he empezado recientemente en el mundo de la programación. Programar es muy díficil pero cada día aprendo más sobre motores de videojuegos como Unity e idiomas cómo Java. Especialmente me gustan los repositorios de código abierto que proporcionan alternativas cómodas y completas a las grandes empresas tecnológicas, cuyas aplicaciones estan saturadas de publicidad y rastreadores. <br/>
 <hr>
