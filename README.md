@@ -13,8 +13,6 @@
 **Español:** Este es un estudio de videojuegos y aplicaciones español trabajando en diversos proyectos. Nuestras apps son gratuitas y no contienen anuncios: no ganamos dinero programando. Actualmente estamos contribuyendo a VueTube, una app de streaming de vídeo de código abierto para ver YouTube con más privacidad y con complementos, y otras cosas como forks y nuestra tienda de aplicaciones.
 <hr>
 
-<image align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GayolGate&count_private=true&show_icons=true&theme=swift&custom_title=Stats / Estadísticas&border_radius=20&include_all_commits=true">
-
 ### About me / Sobre mí
 
 **English:** I'm mainly a book writer, author of *Subhallo* and *The Author Valley* (I'm working to translate them to English) but I have recently started into coding world. Coding is too hard but everyday I learn more about game engines like Unity and languages like Java. I especially like the open source repositories that provide comfortable and complete alternatives to Big Tech, which apps are full of ads and trackers. <br />
