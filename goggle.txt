@@ -1,0 +1,69 @@
+! name: Safer Android Sideloading
+! description: Makes APK results safer by promoting trusted shops and discarding dangerous websites.
+! public: true
+! author: gayolGate
+
+! Made by gayolGate (github.com/gayolGate). Enable just when looking for Android APK files.
+! Even with this Goggle, you should always check with an antivirus like VirusTotal every unknown app before installing it!
+
+
+
+! BOOSTED SERVICES AND PATTERNS:
+
+$boost=4,site=f-droid.org
+! All F-Droid apps are completely opensource and have been checked carefully.
+! In fact, it's one of the safest Android stores, even more than Google Play.
+! Also F-Droid clearly warns you about bad characteristics like ads.
+
+$boost=3,site=apkmirror.com
+! APKMirror is a highly curated repository of verified apps.
+! It has a non-piracy policy and does not host paid content.
+
+$boost=2,site=github.com
+! GitHub is intented to host code, so GitHub apps are usually opensource.
+! Anyways, you should always double check what you are going to download.
+
+$boost=2,site=gitlab.com
+! GitLab works like GitHub, so same criteria applies for that service.
+
+! These are unique opensource apps promoted by the Goggle:
+$boost=2, site=newpipe.net
+$boost=2, site=vuetube.app
+$boost=2, site=libre-tube.github.io
+$boost=2, site=videolan.org
+
+
+
+
+! DOWNRANKED SERVICES AND PATTERNS:
+! These results might contain malware.
+
+aptoide$downrank
+$downrank,site=aptoide.com
+! Aptoide itself is safe and opensource, however, apps are not verified
+! Anyone can upload anything, so you must be careful when using it.
+! Tip: Aptoide allows users to rate apps as "Good", "Needs license", "Fake app" and "Virus".
+! You can check other users ratings to avoid apps marked with "Virus" tag.
+
+vanced$downrank
+$downrank,site=youtubevanced.com
+! YouTube Vanced ("vancedapp.com") was banned due to legal reasons and no longer can be installed.
+! There are still a lot of clones and fake websites of the mod, like "youtubevanced.com".
+! This command downgrades links that contain "Vanced" in the URL.
+
+puretuber$downrank
+$downrank,site=puretuber.com
+! PureTuber is a closed source YouTube client that asks for insecure login.
+! When you login, app has full access to your Google account. It doesn't use oAuth.
+! PureTuber site is misleading and has photos of another clients like Newpipe.
+
+
+
+! BANNED SERVICES AND PATTERNS:
+! These results have been shown to contain malware.
+
+apkpure$discard
+$discard,site=apkpure.com
+! APKPure is known to have included malicious code in its official app.
+! That malware could display ads and subscribe you to paid services.
+! SOURCE: https://securelist.com/apkpure-android-app-store-infected/101845/
