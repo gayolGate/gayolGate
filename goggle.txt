@@ -27,10 +27,10 @@ $boost=2,site=gitlab.com
 ! GitLab works like GitHub, so same criteria applies for that service.
 
 ! These are unique opensource apps promoted by the Goggle:
-$boost=2, site=newpipe.net
-$boost=2, site=vuetube.app
-$boost=2, site=libre-tube.github.io
-$boost=2, site=videolan.org
+$boost=2,site=newpipe.net
+$boost=2,site=vuetube.app
+$boost=2,site=libre-tube.github.io
+$boost=2,site=videolan.org
 
 
 
