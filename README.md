@@ -23,11 +23,11 @@
 ### How to reach me / Contacta conmigo
 
 Email:<br />
-**agayol@duck.com** (Developing) <br />
-**contacto@subhallo.com** (Book writing) <br />
+**gayolgate@alejandrogayol.com** (Developing) <br />
+**novelas@alejandrogayol.com** (Book writing) <br />
   
 Discord:<br />
-**alexuspromago#9473**<br />
+**agayol#9473**<br />
 
 <hr>
 
