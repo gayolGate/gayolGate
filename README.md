@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" src="/logo.PNG" alt="GayolGate logo">
+  <img width="600" src="/logo.png" alt="GayolGate logo">
 </p>
 
 ## Welcome to / Bienvenido a GayolGate 💻
